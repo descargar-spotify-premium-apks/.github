@@ -494,7 +494,7 @@ Características de Spotify MOD APK que no funcionan: solución 100 % rápida
 Empieza por descargar una aplicación VPN gratuita como SuperVPN. No requiere registro ni complicaciones.
 Abra SuperVPN, elija Reino Unido (u otra ubicación) y presione Conectar.
 Desinstala tu aplicación Spotify actual. A continuación, descarga e instala la versión 8.9.84.594 del mod desde la sección de descargas. ¡No abras Spotify todavía!
-Ahora, abre tu navegador y ve a https://spotigurus.com. Inicia sesión con tus datos y cambia tu región a Reino Unido (o la ubicación que hayas seleccionado en la VPN).
+Ahora, abre tu navegador y ve a Inicia sesión con tus datos y cambia tu región a Reino Unido (o la ubicación que hayas seleccionado en la VPN).
 Abre Spotify, inicia sesión y todo debería funcionar correctamente. Ahora puedes cerrar la VPN.
 Si los problemas persisten, repita los pasos de modificación de región cada 14 días para seguir disfrutando de música ininterrumpida.
 Estos pasos deberían resolver cualquier problema que estés experimentando con las modificaciones de Spotify.
